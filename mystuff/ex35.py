@@ -1,4 +1,4 @@
-from sys import exit #实验
+from sys import exit
 
 def gold_romm():
 	print "This room is full of gold. How much do you take?"
